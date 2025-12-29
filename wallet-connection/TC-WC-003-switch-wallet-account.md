@@ -3,6 +3,7 @@
 **Title:** Switch wallet account after successful connection
 
 **Module:** Wallet Connection  
+**Platform:** Web (Desktop Browser)
 **Wallet:** MetaMask  
 **Network:** Ethereum (Sepolia)  
 
