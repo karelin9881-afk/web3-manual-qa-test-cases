@@ -2,7 +2,8 @@
 
 **Title:** Successful wallet connection via MetaMask
 
-**Module:** Wallet Connection  
+**Module:** Wallet Connection
+**Platform:** Web (Desktop Browser)
 **Wallet:** MetaMask  
 **Network:** Ethereum (Sepolia)  
 
