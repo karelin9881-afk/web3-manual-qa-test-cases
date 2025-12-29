@@ -3,6 +3,7 @@
 **Title:** Switch network after wallet connection
 
 **Module:** Wallet Connection  
+**Platform:** Web (Desktop Browser)
 **Wallet:** MetaMask  
 **Network:** Ethereum (Sepolia → Mainnet)  
 
