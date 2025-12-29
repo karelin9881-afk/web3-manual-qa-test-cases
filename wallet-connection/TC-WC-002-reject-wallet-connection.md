@@ -3,6 +3,7 @@
 **Title:** Reject wallet connection request in MetaMask
 
 **Module:** Wallet Connection  
+**Platform:** Web (Desktop Browser)
 **Wallet:** MetaMask  
 **Network:** Ethereum (Sepolia)  
 
