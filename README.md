@@ -5,7 +5,7 @@ All test cases are written with **realistic scenarios** and **negative cases** t
 
 ---
 
-## 📌 Scope
+##  Scope
 
 - **Wallet Connection**
   - Connect / Disconnect Wallet (MetaMask)
@@ -24,7 +24,7 @@ All test cases are written with **realistic scenarios** and **negative cases** t
 
 ---
 
-## ⚡ Why this matters
+##  Why this matters
 
 In Web3, **UX bugs can directly result in user fund loss**.  
 This repository focuses on **high-risk user actions** rather than only happy paths.  
@@ -37,7 +37,7 @@ It demonstrates understanding of:
 
 ---
 
-## 🛠 Tools & Environment
+##  Tools & Environment
 
 - **Wallet:** MetaMask  
 - **Platform:** Web (Desktop Browser)  
@@ -46,7 +46,7 @@ It demonstrates understanding of:
 
 ---
 
-## 📁 Structure
+##  Structure
 
 web3-manual-qa-test-cases/
 ├─ wallet-connection/ # Wallet connection flows
@@ -55,7 +55,7 @@ web3-manual-qa-test-cases/
 
 ---
 
-## ✅ How to Use
+##  How to Use
 
 1. Open the folder corresponding to the module you want to test (`wallet-connection` or `transactions`)  
 2. Pick a test case (`TC-XXX-YYY.md`)  
@@ -65,7 +65,7 @@ All test cases follow a **consistent template** for readability and reproducibil
 
 ---
 
-## 💡 Highlights
+##  Highlights
 
 - Focus on **negative and edge cases** (rejects, insufficient funds, high gas fees, network changes)  
 - Shows **professional Web3 QA thinking**  
@@ -73,7 +73,7 @@ All test cases follow a **consistent template** for readability and reproducibil
 
 ---
 
-## 📌 Next Steps (Optional for Enhancement)
+##  Next Steps (Optional for Enhancement)
 
 - Add **mobile wallet scenarios** (MetaMask Mobile, Trust Wallet, WalletConnect)  
 - Automate test cases using **Playwright / Cypress with Web3 plugin**  
